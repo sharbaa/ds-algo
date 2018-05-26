@@ -1,4 +1,4 @@
-package com.threds;
+package com.threads;
 
 public class OddThread extends Thread{
 NumberGenerator generator;

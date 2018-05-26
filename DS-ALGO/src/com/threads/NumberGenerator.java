@@ -1,4 +1,4 @@
-package com.threds;
+package com.threads;
 
 /**
  * print sequence from 1 - 20 using two threads
